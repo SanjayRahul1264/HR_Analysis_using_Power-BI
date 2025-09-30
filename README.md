@@ -30,7 +30,7 @@ In short, the goal is to answer:
 
 The HR Analytics Dashboard provides a comprehensive view of employee demographics, salaries, job roles, and attrition patterns within the organization. It is designed to help HR managers quickly identify trends, risk areas, and actionable insights for improving employee retention.
 
-![Image Alt]()
+![Image Alt](https://github.com/SanjayRahul1264/HR_Analysis_using_Power-BI/blob/45808989ab47e3f1afab7028944d6ff442816814/HR%20Analysis%20.png)
 
 ✨ **Key Performance Indicators (KPIs)**
 
